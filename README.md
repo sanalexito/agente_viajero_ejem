@@ -1,0 +1,1 @@
+En este repositorio está un ejemplo del problema del agente viajero implementado con la heurística del algortimos genéticos. En este caso el agente hace la ruta en un ciclo. Es decir que retorma al lugar de donde partió.
